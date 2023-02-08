@@ -1,43 +1,42 @@
-<h2 align="center">NotesApp Lite</h2>
+<h1 align="center" id="title">Notes App Lite</h1>
 
-___
+<p align="center"><img src="https://user-images.githubusercontent.com/28691555/217541036-ad15b696-bd2e-4944-86af-6f706734bd9c.png" alt="project-screenshot" width="1000" height="500/"></p>
 
+<p id="description">This project is an attempt to create a very simple and lightweight notes application that uses the browser's own memory to store data.
 
-<p align="center">
-  <img src="https://readme-maker.herokuapp.com/uploads/c8934801f0f62d63-Picture1.png" width="300" heigth="300">
 </p>
 
 
-<h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
-  <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
-</h3>
+### :point_right: [DEMO](https://notesapplite.netlify.app/) :rocket:
 
-___
+:star: Designed by
+[Bruno Kappi](https://www.instagram.com/brunokappi/)
 
-<img src="https://readme-maker.herokuapp.com/uploads/78717b349b4734a4-Screenshot_1.png" width="1200">
-<img src="https://readme-maker.herokuapp.com/uploads/8bf352dc94cf449c-Screenshot_2.png" width="1200">
-<img src="https://readme-maker.herokuapp.com/uploads/8be96eba4cf3349a-Screenshot_3.png" width="1200">
+<h2>Project Screenshots:</h2>
 
-## :information_source: Sobre
+<img src="https://user-images.githubusercontent.com/28691555/217541036-ad15b696-bd2e-4944-86af-6f706734bd9c.png" alt="project-screenshot" width="1000" height="500/">
 
-Site para gerenciar Anotações
+<img src="https://user-images.githubusercontent.com/28691555/217541455-ad901d65-67d2-4c72-af78-8d96494a6cf6.png" alt="project-screenshot" width="" height="600/">
 
-## :interrobang: Motivo
+<img src="https://user-images.githubusercontent.com/28691555/217541636-8a648b9a-7d75-4a0f-950d-4fd059475486.png" alt="project-screenshot" width="" height="600/">
 
 
+<h2>🧐 Features</h2>
 
-## :seedling: Requisitos Mínimos
+Here're some of the project's best features:
+
+*   Add Note
+*   Delete note
+*   Edit note
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   HTML
+*   CSS
+*   Javascript
 
 
-
-## :rocket: Tecnologias Utilizadas 
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias
-
-- HTML
-- Javascript
-- CSS
 
